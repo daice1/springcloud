@@ -37,5 +37,10 @@ public class Test1Bean {
 		this.sex = sex;
 	}
 	
+	public String TestName() {
+		
+		return "testName";
+	}
+	
 	
 }
