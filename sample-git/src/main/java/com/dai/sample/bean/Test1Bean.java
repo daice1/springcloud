@@ -1,6 +1,6 @@
 package com.dai.sample.bean;
 
-public class Test1Bean {
+public class Test1Bean {12
 
 	public String name;
 	
